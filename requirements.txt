@@ -1,0 +1,2 @@
+sktime[all_extras]==0.13.2
+xlrd==2.0.1
