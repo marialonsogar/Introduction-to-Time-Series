@@ -1,2 +1,5 @@
-sktime[all_extras]==0.13.2
+sktime[all_extras]<=0.13.2
+scikit-learn==0.23.2
+pycaret[full]<=2.3.10
 xlrd==2.0.1
+ipykernel<=6.16.0
