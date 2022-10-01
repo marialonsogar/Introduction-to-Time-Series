@@ -1,5 +1,15 @@
-sktime[all_extras]<=0.13.2
-scikit-learn==0.23.2
-pycaret[full]<=2.3.10
+# sktime[all_extras]<=0.13.4
+pycaret==3.0.0rc4
+sktime~=0.13.2
+scikit-learn<1.1.0
+# pycaret<=2.3.10
 xlrd==2.0.1
+joblib>=1.1.0
+pandas<1.5.0
+numpy>=1.20.1
+matplotlib==3.3.4
 ipykernel<=6.16.0
+pip<=22.2.2
+gast<=0.4.0
+protobuf<3.20
+session-info==1.0.0
