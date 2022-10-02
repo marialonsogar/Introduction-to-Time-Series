@@ -1,6 +1,6 @@
 # sktime[all_extras]<=0.13.4
 pycaret==3.0.0rc4
-sktime~=0.13.2
+sktime==0.13.2
 scikit-learn<1.1.0
 # pycaret<=2.3.10
 xlrd==2.0.1
